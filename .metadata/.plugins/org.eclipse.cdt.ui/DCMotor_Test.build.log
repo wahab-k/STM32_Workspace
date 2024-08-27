@@ -1,0 +1,6 @@
+19:25:27 **** Build of configuration Debug for project DCMotor_Test ****
+make -j12 all 
+Command canceled
+
+19:26:50 Build Cancelled. (took 1m:23s.367ms)
+

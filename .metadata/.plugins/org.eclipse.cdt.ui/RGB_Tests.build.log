@@ -1,0 +1,10 @@
+20:54:03 **** Incremental Build of configuration Debug for project RGB_Tests ****
+make -j12 all 
+arm-none-eabi-size   RGB_Tests.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7800	     20	   1636	   9456	   24f0	RGB_Tests.elf
+Finished building: default.size.stdout
+ 
+
+20:54:04 Build Finished. 0 errors, 0 warnings. (took 219ms)
+

@@ -1,0 +1,10 @@
+21:54:43 **** Incremental Build of configuration Debug for project DistanceSensor ****
+make -j12 all 
+arm-none-eabi-size   DistanceSensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14244	    124	   1796	  16164	   3f24	DistanceSensor.elf
+Finished building: default.size.stdout
+ 
+
+21:54:43 Build Finished. 0 errors, 0 warnings. (took 232ms)
+

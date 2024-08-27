@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="TIM"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="true"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="TIM"/>
+			<item value="updateRPM"/>
+			<item value="ADC"/>
+			<item value="cha"/>
+			<item value="moveServo"/>
+			<item value="120"/>
+			<item value="waterLevel"/>
+			<item value="us100_Rx_flag"/>
+			<item value="startTime"/>
+			<item value="rpm_tick_count"/>
+			<item value="cmd_dist"/>
+			<item value="us100_buffer"/>
+			<item value="HAL_Delay"/>
+			<item value="rcv_intpt_flag"/>
+			<item value="oldReading"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1230"/>
+		<item key="DIALOG_Y_ORIGIN" value="226"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="384"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
